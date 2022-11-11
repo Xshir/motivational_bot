@@ -1,0 +1,6 @@
+prefix = "!"
+motivational_quotes = [
+"",
+"",
+""
+]
